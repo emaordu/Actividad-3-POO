@@ -14,6 +14,8 @@ public class App {
         Scanner scanner = new Scanner(System.in);
         boolean exit = false;
 
+        // Hola Mundo
+        
         while (!exit) {
             System.out.println("Selecciona una opción:");
             System.out.println("1. Ejercicio 1: ReproductorMultimedia");
